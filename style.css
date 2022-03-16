@@ -56,13 +56,26 @@ h4
 {
     text-decoration: underline;
 }
+
+
 nav
 {
 	float: left;
 	width: 225px;
 }
 
-article, aside
+date
+{
+	float: left;
+	width: 85px;
+}
+
+poste
+{
+	justify-content: center;
+}
+
+article, aside, poste
 {
 	text-align: justify;
 }
@@ -94,3 +107,29 @@ article
 	font-size: 48px;
 	color: #FF0404;
 }
+
+.name
+{
+	font-size: 60px;
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+}
+	
+.titre
+{
+	font-size: 40px;
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+}
+	
+.presentation
+{
+	font-size: 20px;
+}
+
+.parties
+{
+	color : blue;
+	font-size: 30px;
+}
+
