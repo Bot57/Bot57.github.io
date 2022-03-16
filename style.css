@@ -78,3 +78,19 @@ article
 {
 	display: flex;
 }
+
+#header 
+{
+	display: flex;
+	justify-content: center;
+}
+
+.chantier
+{
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+	font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	line-height: 2;
+	font-size: 48px;
+	color: #FF0404;
+}
